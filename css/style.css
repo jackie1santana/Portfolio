@@ -73,6 +73,7 @@ html {
 
 .w3-wide {
     letter-spacing: 10px;
+    
 }
 
 .w3-hover-opacity {
@@ -977,4 +978,8 @@ transform: scale(1.05);
             video{
                 visibility: hidden;
             }
+    }
+
+    .title-name{
+        box-shadow: 12px 13px 12px -5px cyan;
     }
