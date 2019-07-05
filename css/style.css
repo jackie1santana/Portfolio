@@ -838,7 +838,6 @@ transform: scale(1.05);
     animation: spin 2s linear infinite;
     margin-top: 45%;
     margin-left: 41%;
-     box-shadow: 7px 6px 6px -5px pink;
   }
   
   @keyframes spin {
